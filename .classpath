@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<accessrules>
+			<accessrule kind="accessible" pattern="**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/admin/eclipse/java-oxygen/eclipse/plugins/org.eclipse.core.contenttype-3.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/eclipse/java-oxygen/eclipse/plugins/org.eclipse.core.jobs-3.5.100.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/eclipse/java-oxygen/eclipse/plugins/org.eclipse.core.resources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/eclipse/java-oxygen/eclipse/plugins/org.eclipse.equinox.common-3.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/eclipse/java-oxygen/eclipse/plugins/org.eclipse.equinox.preferences-3.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/eclipse/java-oxygen/eclipse/plugins/org.eclipse.jdt.core_3.13.101.v20180215-0725.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/eclipse/java-oxygen/eclipse/plugins/org-eclipse-equinox-common.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/eclipse/java-oxygen/eclipse/plugins/org.eclipse.core.runtime_3.13.0.v20170207-1030.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/eclipse/java-oxygen/eclipse/plugins/org.osgi.framework-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/eclipse/java-oxygen/eclipse/plugins/org.osgi.util.position-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/eclipse/java-oxygen/eclipse/plugins/org.eclipse.osgi-3.7.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
